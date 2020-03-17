@@ -1,1 +1,6 @@
 /* Global */
+/* Header */
+.header {
+  font-family: "Lobster", cursive;
+  justify-items: center;
+}

@@ -1,3 +1,9 @@
 /* Global */
 $font-header: 'Lobster', cursive;
 $font-text: 'Dancing Script', cursive;
+
+/* Header */
+.header {
+    font-family: $font-header;
+    justify-items: center;
+}
