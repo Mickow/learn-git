@@ -21,3 +21,10 @@
   font-family: "Dancing Script", cursive;
   margin: 50px;
 }
+
+/* Footer */
+.footer {
+  margin-top: 100px;
+  font-family: "Dancing Script", cursive;
+  font-size: 20px;
+}
