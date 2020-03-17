@@ -20,6 +20,7 @@
 .container {
   font-family: "Dancing Script", cursive;
   margin: 50px;
+  max-width: 1240px;
 }
 
 /* Footer */
