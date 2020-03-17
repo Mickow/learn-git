@@ -1,6 +1,11 @@
 /* Global */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 /* Header */
 .header {
   font-family: "Lobster", cursive;
-  justify-items: center;
 }

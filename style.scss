@@ -1,9 +1,13 @@
 /* Global */
 $font-header: 'Lobster', cursive;
 $font-text: 'Dancing Script', cursive;
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
 
 /* Header */
 .header {
     font-family: $font-header;
-    justify-items: center;
 }
